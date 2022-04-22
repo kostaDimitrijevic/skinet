@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+9ZqpsQyySgPh4u80WlzuhlBR78ejEJFqtc61PcRGfI=",
+  "Hash": "lqM8QgiAQd4uq7taPTlnEk177/2qWkuTfhidIjN9Wjw=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\._products",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/._products",
+      "RelativePath": "images/products/boot-ang1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\._products"
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._boot-ang1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\boot-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._boot-ang1.png",
+      "RelativePath": "images/products/boot-ang2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._boot-ang1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._boot-ang2.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\boot-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._boot-ang2.png",
+      "RelativePath": "images/products/boot-core1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._boot-ang2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._boot-core1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\boot-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._boot-core1.png",
+      "RelativePath": "images/products/boot-core2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._boot-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._boot-core2.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\boot-redis1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._boot-core2.png",
+      "RelativePath": "images/products/boot-redis1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._boot-core2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._boot-redis1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\glove-code1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._boot-redis1.png",
+      "RelativePath": "images/products/glove-code1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._boot-redis1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._glove-code1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\glove-code2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._glove-code1.png",
+      "RelativePath": "images/products/glove-code2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._glove-code1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._glove-code2.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\glove-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._glove-code2.png",
+      "RelativePath": "images/products/glove-react1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._glove-code2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._glove-react1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\glove-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._glove-react1.png",
+      "RelativePath": "images/products/glove-react2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._glove-react1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._glove-react2.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\hat-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._glove-react2.png",
+      "RelativePath": "images/products/hat-core1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._glove-react2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._hat-core1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\hat-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._hat-core1.png",
+      "RelativePath": "images/products/hat-react1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._hat-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._hat-react1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\hat-react2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._hat-react1.png",
+      "RelativePath": "images/products/hat-react2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._hat-react1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._hat-react2.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\sb-ang1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._hat-react2.png",
+      "RelativePath": "images/products/sb-ang1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._hat-react2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._sb-ang1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\sb-ang2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._sb-ang1.png",
+      "RelativePath": "images/products/sb-ang2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._sb-ang1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._sb-ang2.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\sb-core1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._sb-ang2.png",
+      "RelativePath": "images/products/sb-core1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._sb-ang2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._sb-core1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\sb-core2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._sb-core1.png",
+      "RelativePath": "images/products/sb-core2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._sb-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._sb-core2.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\sb-react1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._sb-core2.png",
+      "RelativePath": "images/products/sb-react1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._sb-core2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
     },
     {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._sb-react1.png",
+      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\sb-ts1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/._sb-react1.png",
+      "RelativePath": "images/products/sb-ts1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,24 +320,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._sb-react1.png"
-    },
-    {
-      "Identity": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\images\\products\\._sb-ts1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\koled\\Desktop\\e-commerce-app\\skinet\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/._sb-ts1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\._sb-ts1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
     }
   ]
 }
