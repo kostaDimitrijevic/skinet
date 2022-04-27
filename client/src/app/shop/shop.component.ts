@@ -12,7 +12,7 @@ import { ShopService } from './shop.service';
 })
 export class ShopComponent implements OnInit {
 
-  @ViewChild('search', {static: true}) searchTerm: ElementRef // da smo u roditeljskom tagu imali neki ngIf sto bi znacilo da potencijalno ne mozemo da pristupimo tom polju onda bi trebalo static false
+  @ViewChild('search', {static: false}) searchTerm: ElementRef // da smo u roditeljskom tagu imali neki ngIf sto bi znacilo da potencijalno ne mozemo da pristupimo tom polju onda bi trebalo static false
   products: IProduct[];
   brands: IBrand[];
   types: IType[];
