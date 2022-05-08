@@ -46,5 +46,21 @@ namespace Infrastructure.Data
         {
             return await ApplySpecification(spec).CountAsync();
         }
+
+        public void Add(T entity)
+        {
+            _context.Set<T>().Add(entity); //Add uradi tracking na ovaj entitet i kada se pozove SaveChanges tek tada ce se zapravo ubaciti u bazu
+        }
+
+        public void Update(T entity)
+        {
+            _context.Set<T>().Attach(entity);
+            _context.Entry(entity).State = EntityState.Modified; // Ovime markiramo entitet da je modifikovan i posto gra pratimo kada se pozove SaveChanges ovaj entitet ce se promeniti
+        }
+
+        public void Delete(T entity)
+        {
+            _context.Set<T>().Remove(entity);
+        }
     }
 }

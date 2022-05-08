@@ -14,5 +14,8 @@ namespace Core.Interfaces
         Task<T> GetEntityWithSpec(ISpecification<T> spec);
         Task<IReadOnlyList<T>> ListAsync(ISpecification<T> spec);
         Task<int> CountAsync(ISpecification<T> spec);
+        void Add(T entity); // Add Update i Delete nisu asihrone jer nece IGenereticRepo biti odgovoran za to vec UnitOfWork, ovde cemo samo uraditi da se ti entiteti prate
+        void Update(T entity);
+        void Delete(T entity);
     }
 }
