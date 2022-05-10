@@ -13,8 +13,10 @@ namespace Infrastructure.Services
     {
         private readonly IBasketRepository _basketRepo;
         private readonly IUnitOfWork _unitOfWork;
-        public OrderService(IUnitOfWork unitOfWork, IBasketRepository basketRepo)
+        private readonly IPaymentService _paymentService;
+        public OrderService(IUnitOfWork unitOfWork, IBasketRepository basketRepo, IPaymentService paymentService)
         {
+            _paymentService = paymentService;
             _unitOfWork = unitOfWork;
             _basketRepo = basketRepo;
         }
@@ -36,8 +38,17 @@ namespace Infrastructure.Services
             var deliveryMethod = await _unitOfWork.Repository<DeliveryMethod>().GetByIdAsync(deliveryMethodId);
             // calc subtotal
             var subtotal = items.Sum(item => item.Price * item.Quantity);
+            //check to see if order exists
+            var spec = new OrderByPaymentIntentIdSpecification(basket.PaymentIntentId);
+            var existingOrder = await _unitOfWork.Repository<Order>().GetEntityWithSpec(spec);
+
+            if(existingOrder != null)
+            {
+                _unitOfWork.Repository<Order>().Delete(existingOrder);
+                await _paymentService.CreateOrUpdatePaymentIntent(basket.PaymentIntentId);
+            }
             // create order
-            var order = new Order(items, buyerEmail, shippingAddress, deliveryMethod, subtotal);
+            var order = new Order(items, buyerEmail, shippingAddress, deliveryMethod, subtotal, basket.PaymentIntentId);
             //TODO: save to db, zasto  prosledjujemo cuvenje u bazu negde drugde: 
             //Posto ovde cuvamo jedan entitet u bazu okej je, ali da imamo inventar 
             //i korisnik moze da napravi product i brand u isto vreme to znaci da cuvamo dva entiteta u dve razlicite tabele
@@ -49,8 +60,6 @@ namespace Infrastructure.Services
 
 
             if(result <= 0) return null;
-        
-            await _basketRepo.DeleteBasketAsync(basketId); 
 
             return order;
         }
